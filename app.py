@@ -35,7 +35,7 @@ st.markdown(
 )
 selected = option_menu(
     menu_title=None,
-    options=["Home", "Type Comparison", "Generations", "Legends"],
+    options=["Home", "Data Analysis", "EDA", "Visualizations"],
     icons=["house", "fire", "globe-americas", "star"],
     menu_icon="pokeball",
     default_index=0,
